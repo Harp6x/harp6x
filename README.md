@@ -2,13 +2,11 @@
 
 <!-- Actual text -->
 - 🌱 I’m currently learning 
-    ⚡Malware analysis/Development
-    ⚡X86-64 assembly
-    ⚡c/cpp
+    -⚡Malware analysis/Development
+    -⚡X86-64 assembly
+    -⚡c/cpp
 
-- 📫 How to reach me: ... 
-
-[![Twitter][1.2]][1] [![LinkedIn][2.2]][2].
+- 📫 How to reach me: [![Twitter][1.2]][1] or [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
