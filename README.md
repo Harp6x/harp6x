@@ -9,7 +9,7 @@
     
     ⚡c/cpp
 
-- 📫 How to reach me: [![Twitter][1.2]][1] or [![LinkedIn][2.2]][2].
+- 📫 How to reach me: [![Twitter][1.2]][1] or  [![LinkedIn][2.2]][2]
 
 <!-- Icons -->
 
