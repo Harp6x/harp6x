@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=hsrp6x&theme=<THEME_NAME>" />
+(https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=gradient)
 
 <!--
 **Harp6x/harp6x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
