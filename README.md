@@ -1,13 +1,19 @@
 ### Hi there 👋
 
 <!-- Actual text -->
+- 🌱 I’m currently learning 
+    ⚡Malware analysis/Development
+    ⚡X86-64 assembly
+    ⚡c/cpp
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
+- 📫 How to reach me: ... 
+
+[![Twitter][1.2]][1] [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[1.2]: http://i.imgur.com/wWzX9uB.png (Twitter)
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn)
 
 <!-- Links to your social media accounts -->
 
