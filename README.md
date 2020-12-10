@@ -3,11 +3,11 @@
 <!-- Actual text -->
 - 🌱 I’m currently learning 
 
-    -⚡Malware analysis/Development
+    ⚡Malware analysis/Development
     
-    -⚡X86-64 assembly
+    ⚡x86-64 assembly
     
-    -⚡c/cpp
+    ⚡c/cpp
 
 - 📫 How to reach me: [![Twitter][1.2]][1] or [![LinkedIn][2.2]][2].
 
