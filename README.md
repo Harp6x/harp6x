@@ -7,7 +7,8 @@
     
     ⚡x86-64 assembly
     
-    ⚡c/cpp
+    ⚡c/c++/python
+    
 
 - 📫 How to reach me: [![Twitter][1.2]][1]  or  [![LinkedIn][2.2]][2]
 
