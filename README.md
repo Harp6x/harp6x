@@ -3,9 +3,8 @@
 <!-- Actual text -->
 - 🌱 I’m currently learning 
 
-        ⚡Maldev, Red Team, XDev, VR and RE
-        ⚡x86-64 assembly
-        ⚡c/c++/python
+        ⚡Malware Research, Threat Intellegence and Theeat Hunting
+        ⚡x86-64 & Reverse Engineering
     
 
 - 📫 How to reach me: [![Twitter][1.2]][1]  or  [![LinkedIn][2.2]][2]
